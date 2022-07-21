@@ -1,0 +1,32 @@
+[
+  {
+    "eventId":"1",
+    "title":"First updated Event",
+    "calendarId":"tester1@marketplug.com",
+    "createdBy":"tester1@marketplug.com",
+    "startDateTime":"2017-07-16T22:54:01.000+00:00",
+    "endDateTime":"2017-07-16T22:54:01.000+00:00",
+    "link":"",
+    "repeatEvent":true,
+    "recurrencePattern":"",
+    "createdAt":"2017-07-16T22:54:01.000+00:00",
+    "updatedAt":"2017-07-16T22:54:01.000+00:00",
+    "connectionTool":"chat",
+    "eventLocation":"",
+    "emailNotification":false,
+    "onScreenNotification":false,
+    "description":"This is my first event in MP",
+    "orderId":"00100",
+    "updatePermission":false,
+    "invitePermission":false,
+    "guestListViewPermission":true,
+    "publicEvent":false,
+    "attachment":"",
+    "rescheduleTime":"",
+    "sendInvitation":true,
+    "participantsBusy":true,
+    "eventType":"property",
+    "attendees":[{"eventAttendeeId":1,"eventId":"1","calendarId":"tester2@marketplug.com","status":"accept"},{"eventAttendeeId":2,"eventId":"1","calendarId":"tester3@marketplug.com","status":"accept"},{"eventAttendeeId":3,"eventId":"1","calendarId":"tester4@marketplug.com","status":"reject"},{"eventAttendeeId":4,"eventId":"1","calendarId":"lisamanoban@marketplug.com","status":"none"},{"eventAttendeeId":5,"eventId":"1","calendarId":"jenniekim@marketplug.com","status":"accept"},{"eventAttendeeId":63,"eventId":"1","calendarId":"johnsmith@marketplug.com","status":"accept"},{"eventAttendeeId":64,"eventId":"1","calendarId":"johnsmith@marketplug.com","status":"accept"}],
+    "allDay":null
+  }
+]
